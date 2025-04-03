@@ -3,7 +3,6 @@
 Repositório dedicado aos meus estudos e experimentos com a biblioteca **Raylib** utilizando **Python**. Aqui você encontrará projetos, exemplos, anotações e recursos relacionados ao desenvolvimento de jogos e aplicações multimídia com essa poderosa biblioteca.
 
 ![Raylib Logo](https://github.com/raysan5/raylib/blob/master/logo/raylib_180x180.png)  
-*(Se quiser, adicione uma imagem ou banner personalizado)*
 
 ## 🚀 Sobre o Raylib
 
