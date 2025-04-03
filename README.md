@@ -34,14 +34,16 @@ Repositório dedicado aos meus estudos e experimentos com a biblioteca **Raylib*
 ## ✨ Exemplo Básico
 Aqui está um trecho de código simples para começar:
 
-``from pyray import *
+```
+from pyray import *
 init_window(800, 450, "Tela em branco")
 while not window_should_close():
     begin_drawing()
     clear_background(WHITE)
     draw_text("Primeira tela Raylib", 190, 200, 20, VIOLET)
     end_drawing()
-close_window() ``
+close_window()
+```
 
 ## 📚 Recursos de Aprendizado
 * Documentação Oficial do Raylib
