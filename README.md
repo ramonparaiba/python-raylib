@@ -10,11 +10,11 @@ Repositório dedicado aos meus estudos e experimentos com a biblioteca **Raylib*
 
 ## 📂 Estrutura do Repositório
 📦 estudos-raylib-python
-├── 📂 exemplos-basicos - Códigos introdutórios e conceitos fundamentais
-├── 📂 projetos - Projetos completos ou em desenvolvimento
-├── 📂 anotacoes - Notas, tutoriais e referências úteis
-├── 📂 recursos - Assets, imagens, fonts usadas nos projetos
-└── 📂 desafios - Pequenos desafios ou exercícios
+├── exemplos-basicos      # Códigos introdutórios e conceitos fundamentais
+├── projetos              # Projetos completos ou em desenvolvimento
+├── anotacoes             # Notas, tutoriais e referências úteis
+├── recursos              # Assets, imagens, fontes usadas nos projetos
+└── desafios              # Pequenos desafios ou exercícios
 
 
 ## 🛠️ Como Usar
