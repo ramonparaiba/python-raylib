@@ -9,13 +9,12 @@ Repositório dedicado aos meus estudos e experimentos com a biblioteca **Raylib*
 [Raylib](https://www.raylib.com/) é uma biblioteca simples e fácil de usar para desenvolvimento de jogos e aplicações gráficas, com bindings para Python através do [raylib-python](https://github.com/overdev/raylib-py). Ela é perfeita para prototipagem rápida e aprendizado de conceitos de programação de jogos.
 
 ## 📂 Estrutura do Repositório
-/estudos-raylib-python/
-│
-├── /exemplos-basicos/ - Códigos introdutórios e conceitos fundamentais ✅
-├── /projetos/ - Projetos completos ou em desenvolvimento 🔄
-├── /anotacoes/ - Notas, tutoriais e referências úteis 🔄
-├── /recursos/ - Assets, imagens, fonts usadas nos projetos 🔄
-└── /desafios/ - Pequenos desafios ou exercícios 🔄
+📦 estudos-raylib-python
+├── 📂 exemplos-basicos - Códigos introdutórios e conceitos fundamentais
+├── 📂 projetos - Projetos completos ou em desenvolvimento
+├── 📂 anotacoes - Notas, tutoriais e referências úteis
+├── 📂 recursos - Assets, imagens, fonts usadas nos projetos
+└── 📂 desafios - Pequenos desafios ou exercícios
 
 
 ## 🛠️ Como Usar
