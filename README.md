@@ -45,7 +45,7 @@ close_window()
 
 ## 📚 Recursos de Aprendizado
 * Documentação Oficial do Raylib
-- raylib-python no GitHub
+- raylib-python no GitHub (expandir o status atual com exemplos diferentes)
 - Exemplos Oficiais (em C, mas úteis)
 - Livro "Learn Raylib" (em inglês)
 
